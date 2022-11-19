@@ -1,0 +1,266 @@
+For Wire3 Eyes Only 
+ 
+This is an automatically generated report. 
+Script used to generate report: Metadata_crawler.py 
+The script was created by: Vimal Seshadri Raguraman 
+Generated on: 2022-11-19 12:38:26 
+ 
+ 
+ 
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/family.jpeg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : family.jpeg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 64 kB
+File Modification Date/Time     : 2022:11:19 12:38:29-05:00
+File Access Date/Time           : 2022:11:19 12:38:29-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:29-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 900
+Image Height                    : 600
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- Composite ----
+Image Size                      : 900x600
+Megapixels                      : 0.540
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/icon-lightspeed.svg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : icon-lightspeed.svg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 4.4 kB
+File Modification Date/Time     : 2022:11:19 12:38:28-05:00
+File Access Date/Time           : 2022:11:19 12:38:28-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:28-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : SVG
+File Type Extension             : svg
+MIME Type                       : image/svg+xml
+---- SVG ----
+ID                              : Layer_1
+Xmlns                           : http://www.w3.org/2000/svg
+View Box                        : 0 0 149.36 105.08
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/icon-hyperspeed.svg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : icon-hyperspeed.svg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 4.6 kB
+File Modification Date/Time     : 2022:11:19 12:38:28-05:00
+File Access Date/Time           : 2022:11:19 12:38:28-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:28-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : SVG
+File Type Extension             : svg
+MIME Type                       : image/svg+xml
+---- SVG ----
+ID                              : Layer_1
+Xmlns                           : http://www.w3.org/2000/svg
+View Box                        : 0 0 132.33 105.09
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/icon-mach1.svg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : icon-mach1.svg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 3.3 kB
+File Modification Date/Time     : 2022:11:19 12:38:28-05:00
+File Access Date/Time           : 2022:11:19 12:38:28-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:28-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : SVG
+File Type Extension             : svg
+MIME Type                       : image/svg+xml
+---- SVG ----
+ID                              : Layer_1
+Xmlns                           : http://www.w3.org/2000/svg
+View Box                        : 0 0 148.27 95.08
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/icon-ludicrous.svg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : icon-ludicrous.svg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 3.5 kB
+File Modification Date/Time     : 2022:11:19 12:38:29-05:00
+File Access Date/Time           : 2022:11:19 12:38:29-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:29-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : SVG
+File Type Extension             : svg
+MIME Type                       : image/svg+xml
+---- SVG ----
+ID                              : Layer_1
+Xmlns                           : http://www.w3.org/2000/svg
+View Box                        : 0 0 171.37 108.74
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/mbtv-wire3.jpg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : mbtv-wire3.jpg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 33 kB
+File Modification Date/Time     : 2022:11:19 12:38:29-05:00
+File Access Date/Time           : 2022:11:19 12:38:29-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:29-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 767
+Image Height                    : 521
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+---- JFIF ----
+JFIF Version                    : 1.02
+Resolution Unit                 : None
+X Resolution                    : 100
+Y Resolution                    : 100
+---- Ducky ----
+Quality                         : 60%
+---- Adobe ----
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14], Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+---- Composite ----
+Image Size                      : 767x521
+Megapixels                      : 0.400
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/workfromhome.jpeg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : workfromhome.jpeg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 76 kB
+File Modification Date/Time     : 2022:11:19 12:38:30-05:00
+File Access Date/Time           : 2022:11:19 12:38:30-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:30-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 900
+Image Height                    : 600
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- Composite ----
+Image Size                      : 900x600
+Megapixels                      : 0.540
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/ghost-logo.png
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : ghost-logo.png
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 5.3 kB
+File Modification Date/Time     : 2022:11:19 12:38:28-05:00
+File Access Date/Time           : 2022:11:19 12:38:28-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:28-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+---- PNG ----
+Image Width                     : 304
+Image Height                    : 132
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Software                        : Adobe ImageReady
+---- Composite ----
+Image Size                      : 304x132
+Megapixels                      : 0.040
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/logo.svg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : logo.svg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 2.4 kB
+File Modification Date/Time     : 2022:11:19 12:38:27-05:00
+File Access Date/Time           : 2022:11:19 12:38:27-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:27-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : SVG
+File Type Extension             : svg
+MIME Type                       : image/svg+xml
+---- SVG ----
+ID                              : Layer_1
+Xmlns                           : http://www.w3.org/2000/svg
+View Box                        : 0 0 630.91 223.71
+======== /home/hacker/Desktop/Metadata-Project/Downloads/Images/gaming.jpeg
+---- ExifTool ----
+ExifTool Version Number         : 12.49
+---- System ----
+File Name                       : gaming.jpeg
+Directory                       : /home/hacker/Desktop/Metadata-Project/Downloads/Images
+File Size                       : 52 kB
+File Modification Date/Time     : 2022:11:19 12:38:30-05:00
+File Access Date/Time           : 2022:11:19 12:38:30-05:00
+File Inode Change Date/Time     : 2022:11:19 12:38:30-05:00
+File Permissions                : -rw-r--r--
+---- File ----
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Image Width                     : 900
+Image Height                    : 533
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+---- JFIF ----
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+---- Composite ----
+Image Size                      : 900x533
+Megapixels                      : 0.480
+    1 directories scanned
+   10 image files read
+
+
+    1 directories scanned
+    0 image files read
+
+
+    1 directories scanned
+    0 image files read
+
+

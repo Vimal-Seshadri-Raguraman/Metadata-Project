@@ -61,9 +61,10 @@ def file_manager():
 
     if not os.path.exists(Reports):
         os.mkdir(Reports)
+        os.mkdir(Todays_Reports)
     else:
-        if not os.path.exists(os.path.join(Reports, Date)):
-            os.mkdir(os.path.join(Reports, Date))
+        if not os.path.exists(Todays_Reports):
+            os.mkdir(Todays_Reports)
 
 
 def extractor(bs_object):
@@ -155,7 +156,7 @@ def metadata_extractor(dir):
     f.write("{} \n \n \n \n".format(Report_Intro))
     for file in os.listdir(dir):
         file_path = os.path.join(dir, file)
-        output = subprocess.run(["exiftool","-a", "-u", "-g1", file_path], stdout=subprocess.PIPE)
+        output = subprocess.run(["exiftool", "-a", "-u", "-g1", file_path], stdout=subprocess.PIPE)
         f.write(output.stdout.decode("utf-8"))
         f.write("\n\n")
     f.close()
